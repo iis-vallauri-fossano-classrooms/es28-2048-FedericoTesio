@@ -16,16 +16,16 @@ body{
 } 
 
 #wrapper{
-    width:360px;
+    width:480px;
     margin: 0 auto;
 	padding:10px;
 	background-color:rgb(187, 173, 160);
 }
 
 .cella {
-	width:70px;
-	height: 70px;
-	line-height:70px;
+	width:100px;
+	height: 100px;
+	line-height:100px;
 	display:inline-block;
 	font-size:30pt;
 	font-weight:bold;
